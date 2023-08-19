@@ -1,4 +1,4 @@
-Create react app
+Create react App
 
 ![Screenshot 2023-08-12 114643](https://github.com/tarun-321/Amazon_clone/assets/91241111/294b1410-1ee5-489b-a745-32301ba31cd1)
 
